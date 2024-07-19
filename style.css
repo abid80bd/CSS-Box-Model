@@ -1,0 +1,15 @@
+h1,p {
+    background-color: aqua;
+}
+
+.lhr,.p2 {
+    background-color: red;
+}
+
+#sgd,#p3 {
+    background-color: blue;
+}
+
+#p3, .lhr {
+    font-size: 3rem;
+}
